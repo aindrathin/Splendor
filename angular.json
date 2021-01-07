@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "Splendor"
+  "defaultProject": "Splendor",
+  "cli": {
+    "analytics": false
+  }
 }
